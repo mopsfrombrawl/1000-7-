@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    padding: 30ph;
+background-color: blueviolet;
+}
+
+
+header img{
+border: 5px double beige;}
+
+
+h1,h2{
+    text-align: center;
+}
+
+
